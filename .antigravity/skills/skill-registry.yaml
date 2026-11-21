@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: botswanan-restitution-roadmap-and-qsf-trust-execution
-  name: Botswanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/botswanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_bw_001
+    name: Botswana Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_002
+    name: Botswana Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_003
+    name: Botswana Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_004
+    name: Botswana Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_005
+    name: Botswana Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_006
+    name: Botswana Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_007
+    name: Botswana Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_008
+    name: Botswana Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_009
+    name: Botswana Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_010
+    name: Botswana Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_011
+    name: Botswana Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_012
+    name: Botswana Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_013
+    name: Botswana Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_014
+    name: Botswana Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_015
+    name: Botswana Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_016
+    name: Botswana Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_017
+    name: Botswana Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_018
+    name: Botswana Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_019
+    name: Botswana Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_020
+    name: Botswana Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_021
+    name: Botswana Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_022
+    name: Botswana Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_023
+    name: Botswana Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_024
+    name: Botswana Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_025
+    name: Botswana Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_026
+    name: Botswana Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_027
+    name: Botswana Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_028
+    name: Botswana Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_029
+    name: Botswana Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_030
+    name: Botswana Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_031
+    name: Botswana Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_032
+    name: Botswana Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_033
+    name: Botswana Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_034
+    name: Botswana Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_035
+    name: Botswana Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_036
+    name: Botswana Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_037
+    name: Botswana Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_038
+    name: Botswana Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_039
+    name: Botswana Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_040
+    name: Botswana Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_041
+    name: Botswana Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_042
+    name: Botswana Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_043
+    name: Botswana Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_044
+    name: Botswana Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_045
+    name: Botswana Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_046
+    name: Botswana Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_047
+    name: Botswana Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_048
+    name: Botswana Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_049
+    name: Botswana Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_050
+    name: Botswana Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_051
+    name: Botswana Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_052
+    name: Botswana Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_053
+    name: Botswana Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_054
+    name: Botswana Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_055
+    name: Botswana Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_056
+    name: Botswana Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_057
+    name: Botswana Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_058
+    name: Botswana Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_059
+    name: Botswana Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_060
+    name: Botswana Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_061
+    name: Botswana Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_062
+    name: Botswana Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_063
+    name: Botswana Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_064
+    name: Botswana Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_065
+    name: Botswana Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_066
+    name: Botswana Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_067
+    name: Botswana Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_068
+    name: Botswana Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_069
+    name: Botswana Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_070
+    name: Botswana Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_071
+    name: Botswana Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_072
+    name: Botswana Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_073
+    name: Botswana Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_074
+    name: Botswana Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_075
+    name: Botswana Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_076
+    name: Botswana Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_077
+    name: Botswana Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_078
+    name: Botswana Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_079
+    name: Botswana Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_080
+    name: Botswana Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_081
+    name: Botswana Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_082
+    name: Botswana Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_083
+    name: Botswana Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_084
+    name: Botswana Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_085
+    name: Botswana Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_086
+    name: Botswana Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_087
+    name: Botswana Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_088
+    name: Botswana Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_089
+    name: Botswana Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_090
+    name: Botswana Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_091
+    name: Botswana Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_092
+    name: Botswana Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_093
+    name: Botswana Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_094
+    name: Botswana Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_095
+    name: Botswana Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_096
+    name: Botswana Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_097
+    name: Botswana Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_098
+    name: Botswana Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_099
+    name: Botswana Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_100
+    name: Botswana Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_101
+    name: Botswana Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_102
+    name: Botswana Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_103
+    name: Botswana Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_104
+    name: Botswana Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_105
+    name: Botswana Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_106
+    name: Botswana Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_107
+    name: Botswana Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_108
+    name: Botswana Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_109
+    name: Botswana Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_110
+    name: Botswana Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_111
+    name: Botswana Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_112
+    name: Botswana Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_113
+    name: Botswana Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_114
+    name: Botswana Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_115
+    name: Botswana Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_116
+    name: Botswana Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_117
+    name: Botswana Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_118
+    name: Botswana Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_119
+    name: Botswana Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_120
+    name: Botswana Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_121
+    name: Botswana Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_122
+    name: Botswana Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_123
+    name: Botswana Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_124
+    name: Botswana Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_125
+    name: Botswana Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_126
+    name: Botswana Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_127
+    name: Botswana Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_128
+    name: Botswana Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_129
+    name: Botswana Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_130
+    name: Botswana Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_131
+    name: Botswana Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_132
+    name: Botswana Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_133
+    name: Botswana Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_134
+    name: Botswana Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_135
+    name: Botswana Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_136
+    name: Botswana Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_137
+    name: Botswana Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_138
+    name: Botswana Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_139
+    name: Botswana Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_140
+    name: Botswana Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_141
+    name: Botswana Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_142
+    name: Botswana Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_143
+    name: Botswana Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_144
+    name: Botswana Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_145
+    name: Botswana Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_146
+    name: Botswana Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_147
+    name: Botswana Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_148
+    name: Botswana Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_149
+    name: Botswana Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_150
+    name: Botswana Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_151
+    name: Botswana Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_152
+    name: Botswana Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_153
+    name: Botswana Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_154
+    name: Botswana Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_155
+    name: Botswana Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_156
+    name: Botswana Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_157
+    name: Botswana Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_158
+    name: Botswana Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_159
+    name: Botswana Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_160
+    name: Botswana Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_161
+    name: Botswana Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_162
+    name: Botswana Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_163
+    name: Botswana Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_164
+    name: Botswana Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_165
+    name: Botswana Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_166
+    name: Botswana Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_167
+    name: Botswana Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_168
+    name: Botswana Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_169
+    name: Botswana Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_170
+    name: Botswana Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_171
+    name: Botswana Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_172
+    name: Botswana Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_173
+    name: Botswana Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_174
+    name: Botswana Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_175
+    name: Botswana Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_176
+    name: Botswana Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_177
+    name: Botswana Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_178
+    name: Botswana Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_179
+    name: Botswana Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_180
+    name: Botswana Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_181
+    name: Botswana Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_182
+    name: Botswana Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_183
+    name: Botswana Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_184
+    name: Botswana Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_185
+    name: Botswana Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_186
+    name: Botswana Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_187
+    name: Botswana Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_188
+    name: Botswana Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_189
+    name: Botswana Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_190
+    name: Botswana Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_191
+    name: Botswana Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_192
+    name: Botswana Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_193
+    name: Botswana Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_194
+    name: Botswana Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_195
+    name: Botswana Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_196
+    name: Botswana Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_197
+    name: Botswana Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_198
+    name: Botswana Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_199
+    name: Botswana Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_200
+    name: Botswana Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_201
+    name: Botswana Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_202
+    name: Botswana Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_203
+    name: Botswana Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_204
+    name: Botswana Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_205
+    name: Botswana Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_206
+    name: Botswana Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_207
+    name: Botswana Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_208
+    name: Botswana Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_209
+    name: Botswana Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_210
+    name: Botswana Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_211
+    name: Botswana Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_212
+    name: Botswana Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_213
+    name: Botswana Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_214
+    name: Botswana Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_215
+    name: Botswana Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_216
+    name: Botswana Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_217
+    name: Botswana Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_218
+    name: Botswana Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_219
+    name: Botswana Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_220
+    name: Botswana Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_221
+    name: Botswana Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_222
+    name: Botswana Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_223
+    name: Botswana Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_224
+    name: Botswana Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_225
+    name: Botswana Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_226
+    name: Botswana Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_227
+    name: Botswana Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_228
+    name: Botswana Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_229
+    name: Botswana Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_230
+    name: Botswana Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_231
+    name: Botswana Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_232
+    name: Botswana Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_233
+    name: Botswana Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_234
+    name: Botswana Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_235
+    name: Botswana Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_236
+    name: Botswana Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_237
+    name: Botswana Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_238
+    name: Botswana Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_239
+    name: Botswana Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_240
+    name: Botswana Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_241
+    name: Botswana Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_242
+    name: Botswana Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_243
+    name: Botswana Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_244
+    name: Botswana Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_245
+    name: Botswana Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_246
+    name: Botswana Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_247
+    name: Botswana Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_248
+    name: Botswana Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_249
+    name: Botswana Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_250
+    name: Botswana Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_251
+    name: Botswana Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_bw_252
+    name: Botswana Skill 252
+    status: ACTIVE_SCAFFOLD
