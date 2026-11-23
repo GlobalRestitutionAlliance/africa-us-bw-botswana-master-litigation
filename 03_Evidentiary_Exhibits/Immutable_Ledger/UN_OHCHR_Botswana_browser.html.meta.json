@@ -1,0 +1,15 @@
+{
+  "url": "https://www.ohchr.org/en/countries/botswana",
+  "final_url": "https://www.ohchr.org/en/countries/botswana",
+  "title": "UN OHCHR Botswana",
+  "fetched_at": "2026-11-23T01:32:16.729761Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60020,
+  "sha256": "a9a393785698c4a010082b2b84f0649e288ea1f444393631ed4cc955ed16996b",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}

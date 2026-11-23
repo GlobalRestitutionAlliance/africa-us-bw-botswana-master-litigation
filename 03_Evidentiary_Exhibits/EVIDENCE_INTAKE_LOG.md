@@ -35,6 +35,24 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-22 | UN_OHCHR_Botswana_browser.html | https://www.ohchr.org/en/countries/botswana | OpenCode/browser-fallback | a9a393785698c4a010082b2b84f0649e288ea1f444393631ed4cc955ed16996b | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | Library_of_Congress_-_Botswana_browser.html | https://www.loc.gov/item/?q=botswana+bechuanaland+colonial | OpenCode/browser-fallback | 1853d374030cc82b9be1cd6e53c85572af786108fa7b6193127abf3b2d25d9e4 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 033a657c29fc22c34142c093bcc78e6faa4810741ff5525a910879837967a35e | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | World_Bank_Botswana_browser.html | https://data.worldbank.org/country/botswana | OpenCode/browser-fallback | 6a574d01d6fa9f83a284dd14fc5a578d2436a0a5d1d60aab6a1d8881378ad1f3 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | UNESCO_Slave_Route_browser.html | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/browser-fallback | 86fa38ae1c1d11e890e66b5020368e2f8b6a70c819edfdc4bc5657652012bde1 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | fcee8a4ccbd5d7d577c39ab68e2331a463358ce9edab0fecc06afde36f014ad8 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 4469a4da322986875b7823d685bad3e39d96752bb8c80fbefd98539c2886834a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
